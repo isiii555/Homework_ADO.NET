@@ -1,0 +1,197 @@
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.exe
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.deps.json
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.runtimeconfig.json
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.pdb
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task_MarkupCompile.cache
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task_MarkupCompile.lref
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.g.resources
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.AssemblyInfo.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.csproj.CopyComplete
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\refint\EF Core Task.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.pdb
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.genruntimeconfig.cache
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\ref\EF Core Task.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\App.baml
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\AddCarView.g.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\CarView.g.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\EditCarView.g.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\AddDriverView.g.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\DriverView.g.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\EditDriverView.g.cs
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\AddCarView.baml
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\CarView.baml
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\EditCarView.baml
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\AddDriverView.baml
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\DriverView.baml
+C:\Users\Professional\source\repos\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\EditDriverView.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.exe
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.deps.json
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.pdb
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\SimpleInjector.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\AddCarView.g.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\CarView.g.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\EditCarView.g.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\AddDriverView.g.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\DriverView.g.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\EditDriverView.g.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task_MarkupCompile.cache
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task_MarkupCompile.lref
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\AddCarView.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\CarView.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\CarView\EditCarView.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\AddDriverView.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\DriverView.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\DriverView\EditDriverView.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.g.resources
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\refint\EF Core Task.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.pdb
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\EF Core Task.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\obj\Debug\net6.0-windows\ref\EF Core Task.dll
+C:\Users\user\OneDrive\Masaüstü\EF Core Task\EF Core Task\bin\Debug\net6.0-windows\EF Core Task.dll.config

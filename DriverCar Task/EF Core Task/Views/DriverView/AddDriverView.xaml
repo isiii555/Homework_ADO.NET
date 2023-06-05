@@ -1,0 +1,30 @@
+﻿<Window x:Class="EF_Core_Task.Views.DriverView.AddDriverView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EF_Core_Task.Views.DriverView"
+        mc:Ignorable="d"
+        Title="AddDriverView" Height="600" Width="600"
+        FontFamily="Bahnschrift">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Label Margin="15" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="45" FontWeight="ExtraBold" FontStyle="Normal">ADD DRIVER</Label>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label>Name</Label>
+            <TextBox Name="Name_txt" Text="{Binding Driver.Name}" Width="400" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>Surname</Label>
+            <TextBox Name="Surname_txt" Text="{Binding Driver.Surname}" Width="400" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>Adress</Label>
+            <TextBox Name="Adress_txt" Text="{Binding Driver.Adress}" Width="400" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>Car</Label>
+            <ComboBox ItemsSource="{Binding Cars}" DisplayMemberPath="SerialNumber" SelectedItem ="{Binding SelectedItem}">
+            </ComboBox>
+        </StackPanel>
+        <Button Grid.Row="2" Width="100" Command="{Binding CreateCommand}">Create</Button>
+    </Grid>
+</Window>

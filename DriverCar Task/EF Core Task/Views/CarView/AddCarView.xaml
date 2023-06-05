@@ -1,0 +1,29 @@
+﻿<Window x:Class="EF_Core_Task.ViewModels.AddCarView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EF_Core_Task.ViewModels"
+        mc:Ignorable="d"
+        Title="AddCarView" Height="450" Width="450" FontSize="14" FontStyle="Italic"
+        FontFamily="Bahnschrift">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Label Margin="15" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="45" FontWeight="ExtraBold" FontStyle="Normal">ADD CAR</Label>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label>Model</Label>
+            <TextBox Name="Model_txt" Text="{Binding Car.Model}" Width="400" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>Vendor</Label>
+            <TextBox Name="Vendor_txt" Text="{Binding Car.Vendor}" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>SeatCount</Label>
+            <TextBox Name="Seatcount_txt" Text="{Binding Car.SeatCount}" FontSize="25" Foreground="Gray"></TextBox>
+            <Label>SerialNumber(00-AA-000)</Label>
+            <TextBox Name="Serialnumber_txt" Text="{Binding Car.SerialNumber}" FontSize="25" Foreground="Gray"></TextBox>
+        </StackPanel>
+        <Button Grid.Row="2" Width="100" Command="{Binding CreateCommand}">Create</Button>
+    </Grid>
+</Window>

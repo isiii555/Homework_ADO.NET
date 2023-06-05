@@ -1,4 +1,5 @@
-﻿using GalaSoft.MvvmLight;
+﻿using AdoFirst.Model;
+using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Command;
 using System;
 using System.Collections.Generic;
@@ -15,18 +16,18 @@ namespace AdoFirst.ViewModel
 {
     public class MainViewModel : ViewModelBase
     {
-        private int category;
+        private Category category;
 
         private DataTable data = new DataTable();
 
         private DataView view = new DataView();
 
-        private int author;
-        public int Author { get => author; set => Set(ref author, value); }
-        public int Category { get => category; set => Set(ref category, value); }
+        private Author author;
+        public Author Author { get => author; set => Set(ref author, value); }
+        public Category Category { get => category; set => Set(ref category, value); }
 
-        public ObservableCollection<int> AuthorsId { get; set; } = new();
-        public ObservableCollection<int> CategoriesId { get; set; } = new();
+        public ObservableCollection<Author> Authors { get; set; } = new();
+        public ObservableCollection<Category> Categories { get; set; } = new();
 
         public DataTable Data { get => data; set => Set(ref data, value); }
 
@@ -41,9 +42,9 @@ namespace AdoFirst.ViewModel
                 try
                 {
                     Data.Clear();
-                    SqlDataAdapter sqlDataAdapter = new("Select * From Books Where Id_Category = @C_id And Id_Author = @A_id", Connection);
-                    sqlDataAdapter.SelectCommand.Parameters.Add("@C_id", SqlDbType.Int).Value = Category;
-                    sqlDataAdapter.SelectCommand.Parameters.Add("@A_id", SqlDbType.Int).Value = Author;
+                    SqlDataAdapter sqlDataAdapter = new("Select * From Books Where (@C_id is null OR Id_Category = @C_id) And (@A_id = null OR Id_Author = @A_id)", Connection);
+                    sqlDataAdapter.SelectCommand.Parameters.Add("@C_id", SqlDbType.Int).Value = Category.Id;
+                    sqlDataAdapter.SelectCommand.Parameters.Add("@A_id", SqlDbType.Int).Value = Author.Id;
                     sqlDataAdapter.Fill(dataTable: Data);
                     View = Data.DefaultView;
                 }

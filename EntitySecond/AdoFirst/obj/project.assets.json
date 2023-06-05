@@ -9807,11 +9807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\AdoFirst\\AdoFirst\\AdoFirst.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\EntitySecond\\AdoFirst\\AdoFirst.csproj",
       "projectName": "AdoFirst",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\AdoFirst\\AdoFirst\\AdoFirst.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\EntitySecond\\AdoFirst\\AdoFirst.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\AdoFirst\\AdoFirst\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\EntitySecond\\AdoFirst\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,5 @@
-﻿using AdoFirst.View;
+﻿using AdoFirst.Model;
+using AdoFirst.View;
 using AdoFirst.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -25,18 +26,18 @@ namespace AdoFirst
             try
             {
                 viewModel.Connection.Open();
-                SqlCommand command = new SqlCommand("Select Id From Authors", viewModel.Connection);
+                SqlCommand command = new SqlCommand("Select * From Authors", viewModel.Connection);
                 reader = command.ExecuteReader();
                 while (reader.Read())
                 {
-                    viewModel.AuthorsId.Add(Convert.ToInt32(reader[0]));
+                    viewModel.Authors.Add(new Author(Convert.ToInt32(reader[0]), reader[1].ToString() + reader[2].ToString()));
                 }
-                command = new SqlCommand("Select Id From Categories", viewModel.Connection);
+                command = new SqlCommand("Select * From Categories", viewModel.Connection);
                 reader.Close();
                 reader = command.ExecuteReader();
                 while (reader.Read())
                 {
-                    viewModel.CategoriesId.Add(Convert.ToInt32(reader[0]));
+                    viewModel.Categories.Add(new Category(Convert.ToInt32(reader[0]), reader[1].ToString()));
                 }
             }
             finally

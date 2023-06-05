@@ -24,10 +24,10 @@ namespace AdoFirst
             var view = new MainView();
             view.Show();
             var viewModel = new MainViewModel();
-            var AuthorsId = await context.Authors.Select(x => x.Id).ToListAsync();
-            AuthorsId.ForEach(x => viewModel.AuthorsId.Add(x));
-            var CategoriesId = await context.Categories.Select(x => x.Id).ToListAsync();
-            CategoriesId.ForEach(x => viewModel.CategoriesId.Add(x));
+            var Authors = await context.Authors.ToListAsync();
+            Authors.ForEach(x => viewModel.Authors.Add(x));
+            var Categories = await context.Categories.ToListAsync();
+            Categories.ForEach(x => viewModel.Categories.Add(x));
             view.DataContext = viewModel;
         }
     }

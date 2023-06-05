@@ -17,14 +17,14 @@ namespace AdoFirst.ViewModel
 {
     public class MainViewModel : ViewModelBase
     {
-        private int category;
+        private Category category;
 
-        private int author;
-        public int Author { get => author; set => Set(ref author, value); }
-        public int Category { get => category; set => Set(ref category, value); }
+        private Author author;
+        public Author Author { get => author; set => Set(ref author, value); }
+        public Category Category { get => category; set => Set(ref category, value); }
 
-        public ObservableCollection<int> AuthorsId { get; set; } = new();
-        public ObservableCollection<int> CategoriesId { get; set; } = new();
+        public ObservableCollection<Author> Authors { get; set; } = new();
+        public ObservableCollection<Category> Categories { get; set; } = new();
 
         public ObservableCollection<Book> Books { get; set; } = new();
 
@@ -35,7 +35,7 @@ namespace AdoFirst.ViewModel
                 try
                 {
                     Books.Clear();
-                    List<Book> source = await App.context.Books.Where(book => book.IdAuthor == Author && book.IdCategory == Category).ToListAsync();
+                    List<Book> source = await App.context.Books.Where(book => (Author == null ||book.IdAuthor == Author.Id) && (Category == null || book.IdCategory == Category.Id)).ToListAsync();
                     source.ForEach(book => Books.Add(book));
                 }
                 catch (Exception ex)

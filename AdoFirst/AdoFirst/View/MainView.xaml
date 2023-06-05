@@ -14,7 +14,7 @@
         <StackPanel Orientation="Horizontal" Width="500">
             <StackPanel Margin="0,0,100,0" Orientation="Horizontal" HorizontalAlignment="Center" Height="30">
                     <Label VerticalAlignment="Center">Author Id :</Label>
-                    <ComboBox VerticalContentAlignment="Center" ItemsSource="{Binding CategoriesId,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding Category,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="100">
+                    <ComboBox VerticalContentAlignment="Center" ItemsSource="{Binding Categories,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding Category,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="100">
                         <i:Interaction.Triggers>
                             <i:EventTrigger EventName="SelectionChanged">
                                 <i:InvokeCommandAction Command="{Binding AuthorChangedCommand}"/>
@@ -26,7 +26,7 @@
                     <Label VerticalAlignment="Center">
                         Category Id :
                     </Label>
-                    <ComboBox VerticalContentAlignment="Center" ItemsSource="{Binding AuthorsId,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding Author,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="100">
+                    <ComboBox VerticalContentAlignment="Center" ItemsSource="{Binding Authors,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding Author,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="100">
                         <i:Interaction.Triggers>
                             <i:EventTrigger EventName="SelectionChanged">
                                 <i:InvokeCommandAction Command="{Binding AuthorChangedCommand}"/>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A/YXoXeqheWd3LmVlYNU0Yd5MCzOzZmexso+ttzk1FixU8kDNcWCA9g55OxrUJfFT7+vg546uGGGLWqzSPovNA==",
+  "dgSpecHash": "64kiyKt0nur7nsswlUeqp8xcFmqGiPK5giM7zDvDANEU0JMdISw7WXLcVNlVm9KqZzU3hHUUFqN8QRDDvKrpHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Masaüstü\\AdoFirst\\AdoFirst\\AdoFirst.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\EntitySecond\\AdoFirst\\AdoFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

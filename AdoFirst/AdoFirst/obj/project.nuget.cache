@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZvuLMqPXVrHY4WGjGUZVC8eoABnDF8sAuAGFHli8TS/0F944QPqsLuwFyCJAEXxt/2h0noXSbh8Yd2DEnOlHNQ==",
+  "dgSpecHash": "e+a8pU8sQHg8JUlEBEbZvgvngsbIJByXu3JqpwKvNfmQmQfLW03lqj6bL1HGkxc7ZdnmNQbQ4IQ5WmWAILSetw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\ConsoleApplication45\\AdoFirst\\AdoFirst\\AdoFirst.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\AdoFirst\\AdoFirst\\AdoFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\commonservicelocator\\2.0.2\\commonservicelocator.2.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",

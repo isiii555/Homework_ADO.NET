@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="ServiceBusApp.Presentation.Views.EditClassView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ServiceBusApp.Presentation.Views"
+             xmlns:viewModel ="clr-namespace:ServiceBusApp.Presentation.ViewModels"
+             d:DataContext="{d:DesignInstance Type=viewModel:EditClassViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="400" Background="White">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Label Margin="15" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="45" FontWeight="ExtraBold" FontStyle="Normal">EDIT CLASS</Label>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label FontSize="20">Name</Label>
+            <TextBox Name="Name_txt" Text="{Binding TempClass.Name}" Width="400" FontSize="25" Foreground="Gray"></TextBox>
+        </StackPanel>
+        <Button Grid.Row="2" Width="100" Command="{Binding SaveCommand}" Content="Save" >
+        </Button>
+    </Grid>
+</UserControl>

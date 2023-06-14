@@ -1,0 +1,32 @@
+﻿<Application x:Class="ServiceBusApp.Presentation.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ServiceBusApp.Presentation"
+             xmlns:viewModel ="clr-namespace:ServiceBusApp.Presentation.ViewModels"
+             xmlns:view="clr-namespace:ServiceBusApp.Presentation.Views">
+    <Application.Resources>
+        <ResourceDictionary>
+            <DataTemplate DataType="{x:Type viewModel:MainViewModel}">
+                <view:MainWindow></view:MainWindow>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:ClassViewModel}">
+                <view:ClassesView></view:ClassesView>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:StudentViewModel}">
+                <view:StudentsView></view:StudentsView>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:AddStudentViewModel}">
+                <view:AddStudentView></view:AddStudentView>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:EditStudentViewModel}">
+                <view:EditStudentView></view:EditStudentView>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:AddClassViewModel}">
+                <view:AddClassView></view:AddClassView>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:EditClassViewModel}">
+                <view:EditClassView></view:EditClassView>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

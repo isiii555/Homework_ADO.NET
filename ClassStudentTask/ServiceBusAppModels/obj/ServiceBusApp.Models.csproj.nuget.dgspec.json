@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj": {
+    "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj",
         "projectName": "ServiceBusApp.Models",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusAppModels\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusAppModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

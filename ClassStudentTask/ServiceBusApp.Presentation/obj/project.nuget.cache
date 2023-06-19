@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qF63oNEyeKHSXwB5SYUseJNG3H5kq+PLu1ZmLxfXb8i5xBhDF+1V99GYDU3x4/aRtnY2SjdwQ1BbGUB/c37KFw==",
+  "dgSpecHash": "JateT1FE4KqG+9FUTXW1CL1ZHrizkZqILBYyIuWn8JyhjdSMIPCLphX19r5o1IpQ8WuDWPK57sPX0bD0zhXN7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusApp.Presentation\\ServiceBusApp.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusApp.Presentation\\ServiceBusApp.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

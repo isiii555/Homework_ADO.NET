@@ -9380,11 +9380,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusApp.Presentation\\ServiceBusApp.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusApp.Presentation\\ServiceBusApp.Presentation.csproj",
       "projectName": "ServiceBusApp.Presentation",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusApp.Presentation\\ServiceBusApp.Presentation.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusApp.Presentation\\ServiceBusApp.Presentation.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusApp.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusApp.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9401,11 +9401,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj"
+            "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj": {
+              "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj"
             },
-            "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusGenericRepo\\ServiceBusApp.Data.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusGenericRepo\\ServiceBusApp.Data.csproj"
+            "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusGenericRepo\\ServiceBusApp.Data.csproj": {
+              "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusGenericRepo\\ServiceBusApp.Data.csproj"
             }
           }
         }

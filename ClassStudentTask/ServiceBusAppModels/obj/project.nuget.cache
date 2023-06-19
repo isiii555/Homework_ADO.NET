@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahw9aCdFA0r4JBwGFxtK/3ULxNSXaaXmN4MQEkInXfm8Y0gPplUPV3D+m1Whcq5X/PI8OJwPpWgzmvAFpGNV0A==",
+  "dgSpecHash": "ZoPoob/NmiP2m20PMTeiYR4R7NPumBs9X+UntXpdk6UW1iL+LVpS1U4DYmyYZIRqlC8YVhmeT6y8ndHPcQ+MIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Masaüstü\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Masaüstü\\Homework_EFCore\\ClassStudentTask\\ServiceBusAppModels\\ServiceBusApp.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

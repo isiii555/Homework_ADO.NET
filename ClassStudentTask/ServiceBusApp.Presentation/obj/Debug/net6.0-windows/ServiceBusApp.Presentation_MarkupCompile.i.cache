@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\user\OneDrive\Masaüstü\ClassStudentTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\
+C:\Users\user\OneDrive\Masaüstü\Homework_EFCore\ClassStudentTask\ServiceBusApp.Presentation\obj\Debug\net6.0-windows\
 ServiceBusApp.Presentation
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\user\OneDrive\Masaüstü\ClassStudentTask\ServiceBusApp.Presentation\App.xaml
+C:\Users\user\OneDrive\Masaüstü\Homework_EFCore\ClassStudentTask\ServiceBusApp.Presentation\App.xaml
 7-1935124131
 
 21831013535
-231361422605
+2311568850869
 Views\AddClassView.xaml;Views\AddStudentView.xaml;Views\ClassesView.xaml;Views\EditClassView.xaml;Views\EditStudentView.xaml;Views\MainWindow.xaml;Views\StudentsView.xaml;
 
-True
+False
 
